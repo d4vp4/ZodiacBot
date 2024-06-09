@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZodiacBot", "ZodiacBot\ZodiacBot.csproj", "{01D0FD62-4F39-4549-BE4F-725D0A971899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{8B75557B-C5E7-40BA-9805-6124D5E5A73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{F0717F52-B730-4160-84B3-77B5F1682174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationCenter", "NotificationCenter\NotificationCenter.csproj", "{71193D2D-3220-4F68-9820-A124C15F3965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D0FD62-4F39-4549-BE4F-725D0A971899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D0FD62-4F39-4549-BE4F-725D0A971899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D0FD62-4F39-4549-BE4F-725D0A971899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D0FD62-4F39-4549-BE4F-725D0A971899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B75557B-C5E7-40BA-9805-6124D5E5A73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B75557B-C5E7-40BA-9805-6124D5E5A73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B75557B-C5E7-40BA-9805-6124D5E5A73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B75557B-C5E7-40BA-9805-6124D5E5A73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0717F52-B730-4160-84B3-77B5F1682174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0717F52-B730-4160-84B3-77B5F1682174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0717F52-B730-4160-84B3-77B5F1682174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0717F52-B730-4160-84B3-77B5F1682174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71193D2D-3220-4F68-9820-A124C15F3965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71193D2D-3220-4F68-9820-A124C15F3965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71193D2D-3220-4F68-9820-A124C15F3965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71193D2D-3220-4F68-9820-A124C15F3965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
